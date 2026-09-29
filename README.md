@@ -1,5 +1,4 @@
 # GreenChain
-# freenChain 🌱⛓️
 
 🚧 **Status: Under Development**
 
