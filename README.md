@@ -2,11 +2,11 @@
 
 🚧 **Status: Under Development**
 
-**freenChain** is a blockchain-based platform designed to tokenize, track, and verify carbon credits, enabling transparent and tamper-resistant reporting of environmental impact across organizations and sustainability projects.
+**GreenChain** is a blockchain-based platform designed to tokenize, track, and verify carbon credits, enabling transparent and tamper-resistant reporting of environmental impact across organizations and sustainability projects.
 
 ## 🌍 About
 
-freenChain aims to bring transparency and accountability to carbon credit management by leveraging blockchain technology. The platform is envisioned to provide a verifiable record of carbon credits, helping organizations and projects document their environmental contributions.
+GreenChain aims to bring transparency and accountability to carbon credit management by leveraging blockchain technology. The platform is envisioned to provide a verifiable record of carbon credits, helping organizations and projects document their environmental contributions.
 
 ## ✨ Planned Features
 
@@ -33,8 +33,8 @@ To build a transparent and verifiable digital infrastructure for carbon credit m
 
 ## 🚧 Development Status
 
-freenChain is currently under development. Features, architecture, and implementation details are subject to change.
+GreenChain is currently under development. Features, architecture, and implementation details are subject to change.
 
 ---
 
-**freenChain** — *Tokenizing transparency. Tracking impact. Building a greener future.* 🌍
+**GreenChain** — *Tokenizing transparency. Tracking impact. Building a greener future.* 🌍
